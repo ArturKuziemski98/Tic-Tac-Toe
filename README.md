@@ -19,8 +19,7 @@
 - C# / VisualStudio
 
 ## Project Status
-Project is in progress, there still are few small things to code
-Need to implement draw option
+Project is in progress, there still are few small things to code, need to implement draw option
 
 ## Contact
 Created by kuziemskiartur98@gmail.com - feel free to contact me!
